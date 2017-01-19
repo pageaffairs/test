@@ -11,3 +11,5 @@ This is a test of adding a line to the fork of the repository.
 This is a fork update from a new branch.
 
 This is a fork from GitHub.
+
+This is a new addition, Part 1; 
