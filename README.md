@@ -12,4 +12,4 @@ This is a fork update from a new branch.
 
 This is a fork from GitHub.
 
-Here is a brand new line, Part 1: 
+Here is a brand new line, Part 1: and this is part 2.
